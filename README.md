@@ -1,3 +1,7 @@
+Link to Prisma's monorepo docs
+https://www.prisma.io/docs/guides/turborepo
+
+
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
