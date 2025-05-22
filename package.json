@@ -8,8 +8,8 @@
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "check-types": "turbo run check-types",
-    "db:up": "docker-compose up -d",
-    "db:migrate": "turbo run db:migrate"
+    "db:migrate": "turbo run db:migrate",
+    "db:up": "turbo run db:up"
   },
   "devDependencies": {
     "prettier": "^3.5.3",
